@@ -1,8 +1,15 @@
-- 🌱 I’m currently learning **React Native**
+<div>
 
-- 📝 I regularly write articles on [https://medium.com/@harshanabatagalla](https://medium.com/@harshanabatagalla)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=3DC60C&random=false&width=435&lines=Hey+There+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Harshana+Batagalla+%F0%9F%99%82;Let's+build+something+awesome!+)](https://git.io/typing-svg)
 
-- 💬 Ask me about **anything you're interested in**
+
+</div>
+
+- 🔭 I’m currently a **trainee software engineer @ 99x**
+
+- 🌱 I’m currently learning **Azure Fundamentals**
+
+- 📝 I write articles on [https://medium.com/@harshanabatagalla](https://medium.com/@harshanabatagalla)
 
 - 📫 How to reach me **harshanabatagalla@gmail.com**
 
