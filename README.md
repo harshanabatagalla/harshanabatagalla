@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=30&pause=1000&color=F78F71&center=true&vCenter=true&width=435&lines=%3C++Hello+World!++%2F%3E;I'm+Harshana)](https://git.io/typing-svg)
 <br>
+![SVG](./tagline.svg)
 
 </div>
+
+---
 
 # 🧑🏻‍💻 **About Me**
 
@@ -17,7 +20,7 @@
 
 - 📫 How to reach me **harshanabatagalla@gmail.com**
 
-<br><br>
+<br>
 
 # 📱 **Connect with me:**
 <p align="left">
@@ -27,7 +30,7 @@
 <a href="https://www.hackerrank.com/harshanabatagal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshanabatagal1" height="30" width="40" /></a>
 </p>
 
-<br><be>
+<br>
 
 # 🚀 **Languages and Tools:**
 <!--tech stack icons-->
