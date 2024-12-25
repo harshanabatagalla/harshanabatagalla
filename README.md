@@ -1,3 +1,4 @@
+---
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=30&pause=1000&color=F78F71&center=true&vCenter=true&width=435&lines=%3C++Hello+World!++%2F%3E;I'm+Harshana)](https://git.io/typing-svg)
@@ -22,7 +23,7 @@
 
 <br>
 
-# 📱 **Connect with me:**
+# 📬 **Connect with me:**
 <p align="left">
 <a href="https://linkedin.com/in/harshana-batagalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshana-batagalla" height="30" width="40" /></a>
 <a href="https://instagram.com/_bataya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bataya" height="30" width="40" /></a>
